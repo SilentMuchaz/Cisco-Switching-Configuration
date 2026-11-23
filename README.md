@@ -75,6 +75,6 @@ This project documents hands-on configuration of a **segmented Cisco switching e
 
 - [Cisco Packet Tracer simulation](Cisco%20Switching%20Networking.pkt)
 - [Technical case study — Markdown](Cisco-Switching-Case-Study.md)
-- [Technical case study — PDF](reports/01-cisco-switching-case-study.pdf)
+- [Technical case study — PDF](01-cisco-switching-case-study.pdf)
 
 *The screenshots are hosted externally. The original image files were not included in the uploaded repository archive.*
