@@ -78,10 +78,8 @@ These are documentation-validation items, not claims that the Packet Tracer conf
 
 The project brings together Cisco switching fundamentals and Layer 2 security in one simulated network. The documented work covers VLAN design, VTP roles, aggregated trunk links, access-port security, and a set of verification checks. The `.pkt` file allows the configuration and traffic behavior to be examined directly.
 
-## Supporting project files
+## Supporting project file
 
-- [Packet Tracer simulation](Cisco%20Switching%20Networking.pkt)
-- [Main README](README.md)
 - [Screenshot index](evidence/README.md)
 
 **Environment note:** The project notes use shared lab passwords. These are not suitable production security settings.
